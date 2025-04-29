@@ -1,0 +1,240 @@
+{
+  "courses": [
+    {
+      "id": "3",
+      "name": "Estrutura de Dados",
+      "price": 200,
+      "active": true,
+      "promotion": false
+    },
+    {
+      "id": "5",
+      "name": "Banco de Dados",
+      "price": 150,
+      "active": true,
+      "promotion": false
+    }
+  ],
+  "students": [
+    {
+      "id": "1",
+      "name": "Ana Silva",
+      "course": {
+        "id": "3",
+        "name": "Estrutura de Dados",
+        "price": 200,
+        "active": true,
+        "promotion": false
+      }
+    },
+    {
+      "id": "2",
+      "name": "Carlos Mendes",
+      "course": {
+        "id": 2,
+        "name": "Java Avançado",
+        "price": 120,
+        "active": true,
+        "promotion": false
+      }
+    },
+    {
+      "id": "3",
+      "name": "Bruna Souza",
+      "course": {
+        "id": "3",
+        "name": "Estrutura de Dados",
+        "price": 200,
+        "active": true,
+        "promotion": false
+      }
+    },
+    {
+      "id": "4",
+      "name": "Diego Rocha",
+      "course": {
+        "id": 4,
+        "name": "Python para Iniciantes",
+        "price": 100,
+        "active": true,
+        "promotion": true
+      }
+    },
+    {
+      "id": "5",
+      "name": "Fernanda Lima",
+      "course": {
+        "id": 5,
+        "name": "Banco de Dados",
+        "price": 150,
+        "active": true,
+        "promotion": false
+      }
+    },
+    {
+      "id": "6",
+      "name": "Gabriel Torres",
+      "course": {
+        "id": 1,
+        "name": "Angular Básico",
+        "price": 90,
+        "active": true,
+        "promotion": true
+      }
+    },
+    {
+      "id": "7",
+      "name": "Helena Barros",
+      "course": {
+        "id": 2,
+        "name": "Java Avançado",
+        "price": 120,
+        "active": true,
+        "promotion": false
+      }
+    },
+    {
+      "id": "8",
+      "name": "Igor Castro",
+      "course": {
+        "id": 3,
+        "name": "Estrutura de Dados",
+        "price": 200,
+        "active": true,
+        "promotion": false
+      }
+    },
+    {
+      "id": "9",
+      "name": "Juliana Freitas",
+      "course": {
+        "id": 4,
+        "name": "Python para Iniciantes",
+        "price": 100,
+        "active": true,
+        "promotion": true
+      }
+    },
+    {
+      "id": "10",
+      "name": "Kaio Oliveira",
+      "course": {
+        "id": 5,
+        "name": "Banco de Dados",
+        "price": 150,
+        "active": true,
+        "promotion": false
+      }
+    },
+    {
+      "id": "11",
+      "name": "Laura Nunes",
+      "course": {
+        "id": 1,
+        "name": "Angular Básico",
+        "price": 90,
+        "active": true,
+        "promotion": true
+      }
+    },
+    {
+      "id": "12",
+      "name": "Lucas Martins",
+      "course": {
+        "id": 2,
+        "name": "Java Avançado",
+        "price": 120,
+        "active": true,
+        "promotion": false
+      }
+    },
+    {
+      "id": "13",
+      "name": "Mariana Figueiredo",
+      "course": {
+        "id": 3,
+        "name": "Estrutura de Dados",
+        "price": 200,
+        "active": true,
+        "promotion": false
+      }
+    },
+    {
+      "id": "14",
+      "name": "Nicolas Vieira",
+      "course": {
+        "id": 4,
+        "name": "Python para Iniciantes",
+        "price": 100,
+        "active": true,
+        "promotion": true
+      }
+    },
+    {
+      "id": "15",
+      "name": "Olívia Campos",
+      "course": {
+        "id": 5,
+        "name": "Banco de Dados",
+        "price": 150,
+        "active": true,
+        "promotion": false
+      }
+    },
+    {
+      "id": "16",
+      "name": "Paulo Henrique",
+      "course": {
+        "id": 1,
+        "name": "Angular Básico",
+        "price": 90,
+        "active": true,
+        "promotion": true
+      }
+    },
+    {
+      "id": "17",
+      "name": "Raquel Teixeira",
+      "course": {
+        "id": 2,
+        "name": "Java Avançado",
+        "price": 120,
+        "active": true,
+        "promotion": false
+      }
+    },
+    {
+      "id": "18",
+      "name": "Samuel Almeida",
+      "course": {
+        "id": 3,
+        "name": "Estrutura de Dados",
+        "price": 200,
+        "active": true,
+        "promotion": false
+      }
+    },
+    {
+      "id": "19",
+      "name": "Tatiane Melo",
+      "course": {
+        "id": 4,
+        "name": "Python para Iniciantes",
+        "price": 100,
+        "active": true,
+        "promotion": true
+      }
+    },
+    {
+      "id": "20",
+      "name": "Vinícius Duarte",
+      "course": {
+        "id": 5,
+        "name": "Banco de Dados",
+        "price": 150,
+        "active": true,
+        "promotion": false
+      }
+    }
+  ]
+}
