@@ -25,14 +25,14 @@ Este é um projeto simples desenvolvido com **Angular** que implementa um **CRUD
 
 Antes de começar, você precisará ter instalado em sua máquina:
 
-- [Node.js](https://nodejs.org/) (versão 16.x ou superior recomendada)
+- [Node.js](https://nodejs.org/)
 - [Angular CLI](https://angular.io/cli)
 
 ## 🚧 Execução
 
 1. Clone o repositório
 ```bash
-git clone https://github.com/bibiritriz/Angular-Cadastro-Curso.git
+git clone https://github.com/bibiritriz/Angular-Course-Student-Manager.git
 ```
 2. Instale as dependências
 ```bash
